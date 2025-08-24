@@ -1,0 +1,7 @@
+pet_id,name,type,breed,age,sex,size,color,location,description,photo_url,appeal_score
+D001,Bella,dog,Labrador Retriever,adult,female,large,black,"Singapore, Clementi","Gentle lab mix, house-trained, good with kids.",https://images.dog.ceo/breeds/labrador/n02099712_5753.jpg,0.86
+D002,Milo,dog,Beagle,young,male,medium,tri-color,"Singapore, Yishun",Energetic beagle who loves walks and nose games.,https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg,0.73
+C001,Luna,cat,British Shorthair,adult,female,small,grey,"Singapore, Tampines","Calm indoor cat, prefers quiet homes.",https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg,0.79
+C002,Coco,cat,Siamese,young,male,small,seal,"Singapore, Jurong East","Playful and vocal Siamese, very affectionate.",https://cdn2.thecatapi.com/images/ai6.jpg,0.82
+D003,Snow,dog,Samoyed,adult,male,large,white,"Singapore, Woodlands",Friendly Samoyed with fluffy coat; needs regular grooming.,https://images.dog.ceo/breeds/samoyed/n02111889_1370.jpg,0.77
+C003,Nugget,cat,Domestic Shorthair,senior,male,small,orange,"Singapore, Bedok",Senior sweetheart; loves sunbeams and naps.,https://cdn2.thecatapi.com/images/6qi.jpg,0.75
