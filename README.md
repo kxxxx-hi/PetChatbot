@@ -12,4 +12,4 @@ streamlit run app.py
 - In Streamlit Cloud: New App → pick repo/branch → file = `app.py` → Deploy.
 
 ## Deploy (Hugging Face Spaces)
-- Create Space → Streamlit template → upload files or link repo → Hardware: CPU (free).
+- Create Space → Streamlit template → upload files or link repo → Hardware: CPU (free).rebuild
